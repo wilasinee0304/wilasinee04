@@ -1,0 +1,45 @@
+html,body{
+    background-color:lightgray;
+    margin: 0;
+    padding: 0;
+}
+header{
+    padding: 1em;
+    color: white;
+    background-color: rgb(16, 65, 156);
+    clear: left;
+    text-align: center;
+}
+.brand{
+    width: 80px;
+    height: 80px;
+}
+footer{
+    padding: 1em;
+    color: white;
+    background-color: rgb(170, 45, 51);
+    clear: left;
+    text-align: center;
+    width: 100%;
+
+}
+.main-content{
+    max-width: 800px;
+    margin: auto;
+}
+.box{
+    background-color:white;
+    padding: 20px;
+    margin: 30px;
+    
+}
+.image{
+    width: 100%;
+}
+.button{
+    color: #000;
+    background-color: lightgrey;
+    padding: 10px;
+    text-decoration: none;
+    display: inline-block;
+}
